@@ -237,6 +237,10 @@ function emitRuleValue(context: Context): Rule {
 	return { name };
 }
 
+
+
+
+
 function emitRule(context: Context): Rule {
 	if (context.ruleCache.has(context.node.id)) {
 		return context.ruleRoots.get(context.ruleCache.get(context.node.id));
