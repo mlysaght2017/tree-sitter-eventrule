@@ -1,1 +1,1 @@
-// AWS Event Rule to Gherkin Compiler
+// AWS Event Rule to Gherkin Compiler.
